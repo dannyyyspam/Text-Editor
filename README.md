@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="images/logo.png">
-</p>
+<p align="center"><img src="images/logo.png"></p>
 
 <h1 align="center">(PWA) Challenge: Text Editor (J.A.T.E.) 📝</h1>
 
-[Link to Deployed Application](https://jate1.herokuapp.com/) 🔗
+## Usage 💻
+App can be viewed at - [Heroku](https://jate1.herokuapp.com/) 🔗
 
 ## Task 🔨
 
@@ -13,7 +12,7 @@ Create a text/code editor that functions on a single page, follows PWA criteria,
 ## Tech Stack 🧩
 
 - JavaScript
-- [Webpack](https://webpack.js.org/)
+- [Webpack](https://webpack.js.org/)F
   - Service Workers
   - Create Manifest
 - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
@@ -80,5 +79,7 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+
 ## Contributing
+
 :octocat: [Daniel A](https://github.com/dannyyyspam)
