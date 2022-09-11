@@ -19,18 +19,25 @@ Create a text/code editor that functions on a single page, follows PWA criteria,
 - [Express](https://expressjs.com/)
 
 ## How to Use 📎
-Visit the [deployed application](https://awidener3-jate.herokuapp.com/) where you will be presented with a code/text editor. Any code or text you add will save automatically whenever you click off of the window. On refresh or revisit, the text is persistent and saved in IndexedDB.
+Visit the [deployed application](https://jate1.herokuapp.com/) where you will be presented with a code/text editor. Any code or text you add will save automatically whenever you click off of the window. On refresh or revisit, the text is persistent and saved in IndexedDB.
 
 ## Screenshots 📸
 
-|<center><b>Sign Up</b>|<center><b>Sign In</b>|
+|<center><b>App in-browser</b>|<center><b>App downloaded locally</b>|
 -|-
 ![][1]|![][2]
-|<center><b>Homepage</b>|<center><b>Dashboard</b>|
+|<center><b>App manifest detected</b>|<center><b>Service worker online</b>|
 ![][3]|![][4]
-|<center><b>Homepage</b>|<center><b>Dashboard</b>|
+|<center><b>Using the app offline</b>|<center><b>Object stored in IndexedDB</b>|
 ![][5]|![][6]
 ___
+
+[1]:https://github.com/dannyyyspam/Text-Editor/blob/main/images/usage-1.png
+[2]:https://github.com/dannyyyspam/Text-Editor/blob/main/images/usage-2.png
+[3]:https://github.com/dannyyyspam/Text-Editor/blob/main/images/usage-3.png
+[4]:https://github.com/dannyyyspam/Text-Editor/blob/main/images/usage-4.png
+[5]:https://github.com/dannyyyspam/Text-Editor/blob/main/images/usage-5.png
+[6]:https://github.com/dannyyyspam/Text-Editor/blob/main/images/usage-6.png
 
 ## User Story
 
